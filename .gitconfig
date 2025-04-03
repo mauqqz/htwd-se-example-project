@@ -1,7 +1,0 @@
-[user]
-  name = Maurice Harnisch
-  email = s87128@stud.htw-dresden.de 
-[safe]
-  directory = * 
-#[http]
-#  proxy = http://www-cache.htw-dresden.de:3128
